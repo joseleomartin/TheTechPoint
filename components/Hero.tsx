@@ -39,24 +39,6 @@ export function Hero() {
             </Button>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 pt-12 max-w-3xl mx-auto">
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary">10+</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Años de experiencia</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary">500+</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Clientes satisfechos</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary">24/7</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Soporte disponible</div>
-            </div>
-            <div className="text-center">
-              <div className="text-3xl font-bold text-primary">100%</div>
-              <div className="text-sm text-gray-600 dark:text-gray-400">Garantizado</div>
-            </div>
-          </div>
         </div>
       </div>
 
