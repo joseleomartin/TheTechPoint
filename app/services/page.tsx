@@ -18,8 +18,9 @@ import {
 } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Servicios - THE TECH POINT',
-  description: 'Servicios profesionales de tecnología y gestión administrativa: reparación de equipos, diseño web, domótica, instalación de cámaras, trámites y más.',
+  title: 'Servicios Técnicos en Quilmes, Bernal, Don Bosco | Reparación PC y Móviles',
+  description: 'Servicio técnico profesional en Quilmes, Bernal y Don Bosco. Reparación de computadoras, móviles, diseño web, domótica y trámites administrativos. Atención en Zona Sur GBA.',
+  keywords: 'servicio técnico Quilmes, reparación PC Bernal, arreglo celulares Don Bosco, técnico informático zona sur, reparación notebooks Quilmes, servicio técnico computadoras Bernal, reparación tablets Don Bosco, diseño web Quilmes, domótica Bernal, trámites ANSES Don Bosco',
 };
 
 const techServices = [

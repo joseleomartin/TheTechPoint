@@ -5,8 +5,9 @@ import { Card, CardContent } from '@/components/ui/card';
 import { Target, Eye, Award, Users, Clock, Shield } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Nosotros - THE TECH POINT',
-  description: 'Conoce THE TECH POINT, tu aliado en soluciones tecnológicas y administrativas. Profesionales dedicados a simplificar tu vida digital.',
+  title: 'Sobre Nosotros - THE TECH POINT | Servicio Técnico Quilmes, Bernal, Don Bosco',
+  description: 'THE TECH POINT: servicio técnico profesional en Quilmes, Bernal y Don Bosco. Más de 500 reparaciones realizadas. Especialistas en computadoras, móviles y soluciones tecnológicas en Zona Sur GBA.',
+  keywords: 'técnico Quilmes, servicio técnico Bernal, reparación Don Bosco, técnico informático zona sur, empresa tecnología Quilmes, servicio técnico profesional Bernal',
 };
 
 export default function AboutPage() {

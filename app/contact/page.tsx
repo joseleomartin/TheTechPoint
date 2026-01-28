@@ -4,8 +4,9 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Phone, Mail, MapPin, Clock, MessageCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Contacto - THE TECH POINT',
-  description: 'Contáctanos para solicitar nuestros servicios de tecnología y gestión administrativa. Estamos disponibles para ayudarte.',
+  title: 'Contacto - THE TECH POINT | Servicio Técnico Quilmes, Bernal, Don Bosco',
+  description: 'Contacta con THE TECH POINT en Quilmes, Bernal y Don Bosco. Servicio técnico de computadoras y móviles. WhatsApp: +54 11 2858-3157. Atención en Zona Sur GBA.',
+  keywords: 'contacto técnico Quilmes, servicio técnico Bernal, teléfono Don Bosco, WhatsApp técnico zona sur, consulta reparación Quilmes, presupuesto Bernal',
 };
 
 export default function ContactPage() {
